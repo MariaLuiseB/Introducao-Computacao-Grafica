@@ -9,7 +9,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 3
-map_Kd C:\GitHub\7 SEMESTRE\Introducao-Computacao-Grafica\Modelagem\Ovni\Textura.png
+map_Kd ovni-textura.png
 
 newmtl Orange
 Ns 250.000000
@@ -20,5 +20,4 @@ Ke 1.000000 0.169510 0.004427
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd C:\GitHub\7 SEMESTRE\Introducao-Computacao-Grafica\Modelagem\Ovni\Textura.png
-
+map_Kd ovni-textura.png
