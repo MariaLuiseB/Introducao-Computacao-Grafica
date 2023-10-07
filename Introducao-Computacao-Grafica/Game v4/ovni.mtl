@@ -1,0 +1,23 @@
+# Blender 3.6.0 MTL File: 'ovni.blend'
+# www.blender.org
+
+newmtl Brown
+Ns 250.000000
+Ka 0.602837 0.602837 0.602837
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd ovni-textura.png
+
+newmtl Orange
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.064901 0.000050
+Ks 0.500000 0.500000 0.500000
+Ke 1.000000 0.169510 0.004427
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ovni-textura.png
