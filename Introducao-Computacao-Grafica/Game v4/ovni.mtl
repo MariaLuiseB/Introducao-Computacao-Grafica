@@ -1,9 +1,10 @@
-# Blender 3.6.0 MTL File: 'ovni.blend'
-# www.blender.org
+# Blender MTL File: 'ovni.blend'
+# Material Count: 2
 
 newmtl Brown
 Ns 250.000000
 Ka 0.602837 0.602837 0.602837
+Kd 0.800000 0.633688 0.422160
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.450000
@@ -20,4 +21,3 @@ Ke 1.000000 0.169510 0.004427
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd ovni-textura.png
