@@ -60,7 +60,7 @@ class Explosao:
             glTranslatef(part_px, part_py, part_pz)
             glRotatef( self.contador*10, 0.0, 1.0, 0.0)
             glBegin(GL_TRIANGLES)
-            glColor4f(0.9,  0.1, 0.1, self.tdv)
+            glColor4f(0.1,  0.1, 0.9, self.tdv)
             glNormal3f(0.0, 0.0, 1.0)
             glVertex3f(0.0, 0.0, 0.0)
             glVertex3f(0.0, 0.2, 0.0) 
